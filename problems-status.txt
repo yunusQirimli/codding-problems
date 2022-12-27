@@ -1,0 +1,73 @@
+============================
+||--- interviewbit.com ---||
+============================
+* Group A. Solved:
+** November
+13.11
+  - 'Max Non Negative SubArray'
+14.11
+  - 'Min Steps in Infinite Grid'
+
+* Group B. Solved but was hard:
+** November
+11.11
+  - 'Spiral Order Matrix I'
+
+* Group C. Solved with help:
+** November
+09.11
+  - ARRAY_BUG
+24.11
+  - 'Minimum Lights to Activate'
+
+========================
+||--- leetcode.com ---||
+========================
+* Group A. Solved:
+** November
+25.11
+  - 'Two Sum' (https://leetcode.com/problems/two-sum/)
+26.11
+  - 'Running Sum of 1d Array' (https://leetcode.com/problems/running-sum-of-1d-array)
+  - 'Richest Customer Wealth' (https://leetcode.com/problems/richest-customer-wealth)
+27.11
+  - 'Number of Islands' (https://leetcode.com/problems/number-of-islands)
+05.12
+  - 'Majority Element' (https://leetcode.com/problems/majority-element/)
+06.12
+  - 'Contains Duplicate' (https://leetcode.com/problems/contains-duplicate/)
+08.12
+  - 'Meeting Rooms' (https://leetcode.com/problems/meeting-rooms)
+  - 'Missing Number' (https://leetcode.com/problems/missing-number)
+10.12
+  - 'Two Sum II - Input Array Is Sorted' (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+11.12
+  - 'Add Binary' (https://leetcode.com/problems/add-binary)
+
+
+* Group B. Solved but was hard:
+** November
+07.12
+  - 'Valid Anagram' (https://leetcode.com/problems/valid-anagram)
+11.12
+  - '3Sum Closest' (https://leetcode.com/problems/3sum-closest/)
+25.12
+  - 'Valid Parentheses' (https://leetcode.com/problems/valid-parentheses)
+
+
+* Group C. Solved with help:
+** November
+26.11
+  - 'Remove Duplicates from Sorted Array' (https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+04.12
+  - 'Merge Sorted Array' (https://leetcode.com/problems/merge-sorted-array/)
+10.12
+  - '3Sum' (https://leetcode.com/problems/3sum)
+
+
+
+
+
+
+
+
