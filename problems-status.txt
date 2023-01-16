@@ -43,6 +43,11 @@
   - 'Two Sum II - Input Array Is Sorted' (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 11.12
   - 'Add Binary' (https://leetcode.com/problems/add-binary)
+01.08
+  - 'Roman to Integer' (https://leetcode.com/problems/roman-to-integer)
+01.16
+  - 'Reverse String' (https://leetcode.com/problems/reverse-string)
+  - 'Squares of a Sorted Array' (https://leetcode.com/problems/squares-of-a-sorted-array)
 
 
 * Group B. Solved but was hard:
@@ -53,6 +58,8 @@
   - '3Sum Closest' (https://leetcode.com/problems/3sum-closest/)
 25.12
   - 'Valid Parentheses' (https://leetcode.com/problems/valid-parentheses)
+01.08
+  - 'Integer to Roman' (https://leetcode.com/problems/integer-to-roman)
 
 
 * Group C. Solved with help:
