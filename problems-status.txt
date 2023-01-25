@@ -43,19 +43,22 @@
   - Two Sum II - Input Array Is Sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 11.12
   - Add Binary (https://leetcode.com/problems/add-binary)
-01.08
+08.01
   - Roman to Integer (https://leetcode.com/problems/roman-to-integer)
-01.16
+16.01
   - Reverse String (https://leetcode.com/problems/reverse-string)
   - Squares of a Sorted Array (https://leetcode.com/problems/squares-of-a-sorted-array)
   - Maximum Average Subarray I (https://leetcode.com/problems/maximum-average-subarray-i)
-01.23
+23.01
   - Minimum Value to Get Positive Step by Step Sum (https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
   - 'Reverse Words in a String III' (https://leetcode.com/problems/reverse-words-in-a-string-iii)
-01.24
+24.01
   - Reverse Only Letters (https://leetcode.com/problems/reverse-only-letters)
   - Move Zeroes (https://leetcode.com/problems/move-zeroes)
   - Reverse Prefix of Word (https://leetcode.com/problems/reverse-prefix-of-word)
+25.01
+  - Maximum Number of Vowels in a Substring of Given Length (https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)
+  - Get Equal Substrings Within Budget (https://leetcode.com/problems/get-equal-substrings-within-budget)
 
 * Group B. Solved but was hard:
 ** November
@@ -79,6 +82,7 @@
   - Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/)
 10.12
   - 3Sum (https://leetcode.com/problems/3sum)
+25.01
 
 
 
