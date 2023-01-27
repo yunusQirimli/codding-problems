@@ -62,7 +62,11 @@
 26.01
   - Find the Highest Altitude (https://leetcode.com/problems/find-the-highest-altitude)
   - Range Sum Query - Immutable (https://leetcode.com/problems/range-sum-query-immutable)
+27.01
+ - Check if the Sentence is Pangram (https://leetcode.com/problems/check-if-the-sentence-is-pangram)
 
+
+-------------------------------
 * Group B. Solved but was hard:
 ** November
 07.12
@@ -77,6 +81,9 @@
   - Max Consecutive Ones III (https://leetcode.com/problems/max-consecutive-ones-iii)
 
 
+
+
+----------------------------
 * Group C. Solved with help:
 ** November
 26.11
