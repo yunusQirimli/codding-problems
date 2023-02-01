@@ -64,6 +64,10 @@
   - Range Sum Query - Immutable (https://leetcode.com/problems/range-sum-query-immutable)
 27.01
  - Check if the Sentence is Pangram (https://leetcode.com/problems/check-if-the-sentence-is-pangram)
+01.02
+  - Find Players With Zero or One Losses (https://leetcode.com/problems/find-players-with-zero-or-one-losses)
+  - Largest Unique Number (https://leetcode.com/problems/largest-unique-number)
+  - Maximum Number of Balloons (https://leetcode.com/problems/maximum-number-of-balloons)
 
 
 -------------------------------
