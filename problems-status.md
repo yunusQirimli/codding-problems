@@ -71,7 +71,9 @@
   - [Integer to Roman](https://leetcode.com/problems/integer-to-roman)
 - 16.01
   - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
-
+#### Feb 2023
+- 18.02
+  - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
 
 
 
@@ -88,6 +90,10 @@
 #### Jan 2023
 - 25.01
   - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
+#### Feb 2023
+- 17.02
+  - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+  - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
 
 # interviewbit.com
 ### Group A. Solved:
