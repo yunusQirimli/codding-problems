@@ -56,7 +56,11 @@
   - [Ransom Note](https://leetcode.com/problems/ransom-note)
 - 09.02
   - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
-
+- 22.02
+  - [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)
+- 27.02
+  - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
+  - [Online Stock Span](https://leetcode.com/problems/online-stock-span)
 -------------------------------
 ### Group B. Solved but was hard:
 #### Dec 2022
@@ -94,6 +98,8 @@
 - 17.02
   - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
   - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
+- 23.02
+  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
 
 # interviewbit.com
 ### Group A. Solved:
