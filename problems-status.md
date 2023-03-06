@@ -100,6 +100,10 @@
   - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)
 - 23.02
   - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+- 05.03
+  - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
+- 06.03
+  - [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
 
 # interviewbit.com
 ### Group A. Solved:
