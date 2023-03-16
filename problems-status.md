@@ -61,6 +61,10 @@
 - 27.02
   - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
   - [Online Stock Span](https://leetcode.com/problems/online-stock-span)
+- 07.03
+  - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- 16.03
+  - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 -------------------------------
 ### Group B. Solved but was hard:
 #### Dec 2022
