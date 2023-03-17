@@ -66,6 +66,9 @@
 - 16.03
   - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
   - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)
+- 18.03
+  - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
+  - [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)
 -------------------------------
 ### Group B. Solved but was hard:
 #### Dec 2022
