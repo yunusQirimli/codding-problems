@@ -61,6 +61,7 @@
 - 27.02
   - [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
   - [Online Stock Span](https://leetcode.com/problems/online-stock-span)
+#### Mar 2023
 - 07.03
   - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - 16.03
@@ -69,6 +70,10 @@
 - 18.03
   - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)
   - [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)
+- 25.03
+  - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
+  - [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
+  - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island)
 -------------------------------
 ### Group B. Solved but was hard:
 #### Dec 2022
@@ -112,6 +117,8 @@
   - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - 06.03
   - [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
+- 22.03
+  - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 
 # interviewbit.com
 ### Group A. Solved:
