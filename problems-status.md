@@ -74,6 +74,16 @@
   - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
   - [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
   - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island)
+- 26.03
+  - [2368. Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions)
+- 29.03
+  - [2208. Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum)
+#### Apr 2023
+- 01.04
+  - [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total)
+  - [1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)
+- 02.04
+  - [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
 -------------------------------
 ### Group B. Solved but was hard:
 #### Dec 2022
@@ -91,7 +101,9 @@
 #### Feb 2023
 - 18.02
   - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
-
+#### Apr 2023
+- 02.04
+  - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) 
 
 
 ----------------------------
@@ -119,6 +131,8 @@
   - [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)
 - 22.03
   - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
+- 30.03
+  - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 
 # interviewbit.com
 ### Group A. Solved:
